@@ -1,0 +1,8 @@
+# Composer
+/composer.lock
+/vendor/
+/.vscode/
+/.git/
+
+# PhpUnit
+/phpunit.xml
